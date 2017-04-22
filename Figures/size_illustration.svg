@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="561.51202"
+   height="83.472549"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="size_illustration.svg"
+   inkscape:export-filename="/home/helfrich/Dropbox/PhD/Dokumentation/size_illustration.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         id="path3786"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path3780"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="273.77379"
+     inkscape:cy="3.6713218"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="0,1"
+       position="368.41518,70.83583"
+       id="guide4493" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-85.15625,-85.439743)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 87.142857,131.6479 545.714283,0"
+       id="path2985"
+       inkscape:connector-curvature="0" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="471.15851"
+     y="65.876404"
+     id="text4393"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4395"
+       x="471.15851"
+       y="65.876404"
+       dy="0 0 0 0 0 0 0 0 0 0 0 0 0 -6.4285717 6.4285717"
+       style="font-size:12px">Cell area [μm<tspan
+   style="font-size:6px"
+   id="tspan4491">2</tspan>]</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="73.111465"
+     y="12.636719"
+     id="text4401"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4403"
+       x="73.111465"
+       y="12.636719"
+       style="font-size:14px;text-align:center;text-anchor:middle">Cell area</tspan><tspan
+       sodipodi:role="line"
+       x="73.111465"
+       y="30.136719"
+       id="tspan4405"
+       style="font-size:14px;text-align:center;text-anchor:middle">after division</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="200.81683"
+     y="12.636719"
+     id="text4401-8"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4403-6"
+       x="200.81683"
+       y="12.636719"
+       style="font-size:14px;text-align:center;text-anchor:middle">Cell area</tspan><tspan
+       sodipodi:role="line"
+       x="200.81683"
+       y="30.136719"
+       id="tspan4405-0"
+       style="font-size:14px;text-align:center;text-anchor:middle">before division</tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 461.98661,34.779577 0,10"
+     id="path4399-2-9"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="461.50922"
+     y="12.636719"
+     id="text4401-8-4"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4403-6-8"
+       x="461.50922"
+       y="12.636719"
+       style="font-size:14px;text-align:center;text-anchor:middle">10* Cell area</tspan><tspan
+       sodipodi:role="line"
+       x="461.50922"
+       y="30.136719"
+       id="tspan4405-0-5"
+       style="font-size:14px;text-align:center;text-anchor:middle">before division</tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 196.27232,34.779437 0,10"
+     id="path4399-2-9-9"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 72.70089,34.779587 0,10"
+     id="path4399-2-9-8"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="83.198547"
+     y="77.312393"
+     id="text6015"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan6017"
+       x="83.198547"
+       y="77.312393">Single cell</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="264.64719"
+     y="75.600464"
+     id="text6015-4"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan6017-7"
+       x="264.64719"
+       y="75.600464">Multiple cells</tspan></text>
+  <g
+     style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     id="text6040"
+     transform="matrix(0.9422525,0,0,1,-76.107503,-85.439743)">
+    <path
+       d="m 158.08728,135.89995 0,0.68359 c 0,0.91145 0.13858,1.5039 0.41573,1.77734 0.27715,0.27995 0.87657,0.41992 1.79827,0.41993 l 59.81856,0 c 1.00548,0 1.73703,0.14647 2.19465,0.43945 0.45763,0.29296 0.77345,0.80077 0.94748,1.52344 0.16113,-0.72267 0.47051,-1.23048 0.92814,-1.52344 0.45762,-0.29298 56.69313,-0.43945 57.70508,-0.43945 l 2.39768,0 c 0.91524,-1e-5 1.51144,-0.13998 1.7886,-0.41993 0.28359,-0.27344 0.42539,-0.86589 0.4254,-1.77734 l 0,-0.68359 1.38254,0 0,0.61523 c 0,1.62109 -0.2385,2.70182 -0.71543,3.24219 -0.47054,0.54687 -1.41801,0.82031 -2.84244,0.82031 l -2.32034,0 c -0.96038,-10e-6 -57.12821,0.17577 -57.50204,0.52734 -0.3674,0.35156 -0.55109,0.98958 -0.55108,1.91407 l 0,0.60547 -1.38255,0 0,-0.60547 c 0,-0.92449 -0.18691,-1.56251 -0.56074,-1.91407 -0.37384,-0.35157 -1.04739,-0.52735 -2.02064,-0.52734 l -59.73154,0 c -1.42444,0 -2.37514,-0.27344 -2.8521,-0.82031 -0.47696,-0.54037 -0.71544,-1.6211 -0.71544,-3.24219 l 0,-0.61523 1.39221,0"
+       id="path6045"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccscccscccccscscccccsscscscc" />
+  </g>
+  <g
+     style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     id="text6040-4"
+     transform="matrix(2.0240555,0,0,1,-120.92554,-85.765179)">
+    <path
+       d="m 158.08728,135.89995 0,0.68359 c 0,0.91145 0.13858,1.5039 0.41573,1.77734 0.27715,0.27995 0.87657,0.41992 1.79827,0.41993 l 59.81856,0 c 1.00548,0 1.73703,0.14647 2.19465,0.43945 0.45763,0.29296 0.77345,0.80077 0.94748,1.52344 0.16113,-0.72267 0.47051,-1.23048 0.92814,-1.52344 0.45762,-0.29298 56.69313,-0.43945 57.70508,-0.43945 l 2.39768,0 c 0.91524,-1e-5 1.51144,-0.13998 1.7886,-0.41993 0.28359,-0.27344 0.42539,-0.86589 0.4254,-1.77734 l 0,-0.68359 1.38254,0 0,0.61523 c 0,1.62109 -0.2385,2.70182 -0.71543,3.24219 -0.47054,0.54687 -1.41801,0.82031 -2.84244,0.82031 l -2.32034,0 c -0.96038,-10e-6 -57.12821,0.17577 -57.50204,0.52734 -0.3674,0.35156 -0.55109,0.98958 -0.55108,1.91407 l 0,0.60547 -1.38255,0 0,-0.60547 c 0,-0.92449 -0.18691,-1.56251 -0.56074,-1.91407 -0.37384,-0.35157 -1.04739,-0.52735 -2.02064,-0.52734 l -59.73154,0 c -1.42444,0 -2.37514,-0.27344 -2.8521,-0.82031 -0.47696,-0.54037 -0.71544,-1.6211 -0.71544,-3.24219 l 0,-0.61523 1.39221,0"
+       id="path6045-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccscccscccccscscccccsscscscc" />
+  </g>
+</svg>
